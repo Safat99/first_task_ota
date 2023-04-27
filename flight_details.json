@@ -1,0 +1,55 @@
+[
+    {   
+        "ID" : 1,
+        "Airline_name" : "Americal Airlines",
+        "Departure" : "New York",
+        "Departure_code" : "JFK",
+        "Arrival" : "London",
+        "Arrival_code" : "LHR",
+        "Departure_date" : "2023-05-01",
+        "Departure_time" : "9 AM",
+        "Return_date" : "2023-05-23",
+        "Arrival_time" : "12 PM",
+        "Price" : 150
+    }, 
+    {
+        "ID" : 2,
+        "Airline_name" : "United Airlines",
+        "Departure" : "New York",
+        "Departure_code" : "JFK",
+        "Arrival" : "London",
+        "Arrival_code" : "LHR",
+        "Departure_date" : "2023-05-01",
+        "Departure_time" : "2 PM",
+        "Return_date" : "2023-05-23",
+        "Arrival_time" : "5 PM",
+        "Price" : 200
+    },
+    {
+        "ID" : 3,
+        "Airline_name" : "Delta Airlines",
+        "Departure" : "New York",
+        "Departure_code" : "JFK",
+        "Arrival" : "London",
+        "Arrival_code" : "LHR",
+        "Departure_date" : "2023-05-01",
+        "Departure_time" : "6 PM",
+        "Return_date" : "2023-05-23",
+        "Arrival_time" : "9 PM",
+        "Price" : 175
+    },
+    {
+        "ID" : 4,
+        "Airline_name" : "Southwest Airlines",
+        "Departure" : "New York",
+        "Departure_code" : "JFK",
+        "Arrival" : "London",
+        "Arrival_code" : "LHR",
+        "Departure_date" : "2023-05-01",
+        "Departure_time" : "10 PM",
+        "Return_date" : "2023-05-23",
+        "Arrival_time" : "1 AM",
+        "Price" : 125
+    }
+
+]
